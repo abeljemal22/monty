@@ -8,5 +8,4 @@ void arg_err(void)
 {
 	fprintf(stderr, "USAGE: monty file\n");
 	exit(EXIT_FAILURE);
-}sage_error(void);
-int usage_error(void);
+}
